@@ -57,7 +57,7 @@ Uses the VADER sentiment analysis library to calculate the sentiment score for e
 
 
 
-## 3.PerDayAnalysis 
+## 3.PerDayAnalysis.ipynb 
 Identifies the candidates associated with each tweet, for all dates and creates a dataframe to keep a track of number of tweets and sentiment for all candidates for all the dates.
 'daily_candidate_sentiments_df.pkl' and 'daily_candidate_tweets_df.pkl' are the dataframes created after processing approx. 2 billion tweets.
 
