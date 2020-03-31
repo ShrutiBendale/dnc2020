@@ -1,4 +1,6 @@
 # Studying the 2020 DNC Primary elections and discussions of it on Twitter
+* Collected and preprocessed over 2 billion tweets over the course of two months using the Twitter streaming API.
+* Performed sentiment analysis on the tweets and provided insights like the progression of overall sentiment about a candidate over a month, daily trending hashtags and mentions using graphs and visualization tools.
 
 Tweets are being streamed using the Twitter Streaming API. We tracked keywords, mentions and hashtags mapped to all candidates, from the Democratic party, running for 2020 presidential election. (See keywords.txt for a list of the keywords we used for each candidates)
 The streams are delivered in compressed Gzip format. 
@@ -57,7 +59,7 @@ Uses the VADER sentiment analysis library to calculate the sentiment score for e
 
 ## 3.PerDayAnalysis 
 Identifies the candidates associated with each tweet, for all dates and creates a dataframe to keep a track of number of tweets and sentiment for all candidates for all the dates.
-'daily_candidate_sentiments_df.pkl' and 'daily_candidate_tweets_df.pkl' are the dataframes created after processing approx. 3 billion tweets.
+'daily_candidate_sentiments_df.pkl' and 'daily_candidate_tweets_df.pkl' are the dataframes created after processing approx. 2 billion tweets.
 
 #### Sample dataframe for "number of tweets per candidate" for 5 days:
 ![count df](https://shrutibendale.files.wordpress.com/2020/03/sentiment_df.png)
