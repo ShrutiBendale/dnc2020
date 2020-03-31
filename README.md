@@ -74,3 +74,4 @@ Plots these dataframes to graphs that shows the sentiment for a candidate over t
 
 
 
+
