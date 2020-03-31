@@ -26,8 +26,8 @@ key =>tweet_id, value => {created_at: "", tweet_id: "", user_id: "", tweet_text:
 'user_mentions': []},<br>
 
  1240672375600902144: <br>
-{'created_at': 'Thu Mar 19 16:11:59 +0000 2020',
-'tweet_text': 'This poor man is going to die tryna save America while y’all hardly paying him any mind. FEEL THE BERN‼️',
+{'created_at': 'Thu Mar 19 16:11:59 +0000 2020',<br>
+'tweet_text': 'This poor man is going to die tryna save America while y’all hardly paying him any mind. FEEL THE BERN‼️',<br>
 'id': 1240672375600902144,<br>
 'user_id': 527157011,<br>
 'hashtags': [],<br>
