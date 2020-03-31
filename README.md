@@ -2,7 +2,7 @@
 * Collected and preprocessed over 2 billion tweets over the course of two months using the Twitter streaming API.
 * Performed sentiment analysis on the tweets and provided insights like the progression of overall sentiment about a candidate over a month, daily trending hashtags and mentions using graphs and visualization tools.
 
-Tweets are being streamed using the Twitter Streaming API. We tracked keywords, mentions and hashtags mapped to all candidates, from the Democratic party, running for 2020 presidential election. (See keywords.txt for a list of the keywords we used for each candidates)
+<br>Tweets are being streamed using the Twitter Streaming API. We tracked keywords, mentions and hashtags mapped to all candidates, from the Democratic party, running for 2020 presidential election. (See keywords.txt for a list of the keywords we used for each candidates)
 The streams are delivered in compressed Gzip format. 
 
 
