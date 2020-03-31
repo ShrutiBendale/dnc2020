@@ -55,7 +55,7 @@ Uses the VADER sentiment analysis library to calculate the sentiment score for e
 'user_id': 527157011,<br>
 'hashtags': [],<br>
 'user_mentions': [],<br>
-<b>'sentiment': 0.5859},...</b><br>
+<b>'sentiment': 0.5859}</b>,...<br>
 
 
 
