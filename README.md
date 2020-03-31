@@ -13,7 +13,7 @@ The streams are delivered in compressed Gzip format.
 Seperates tweets according to dates and creates seperate dictionaries for all dates. These dictionaries are saved as pickle files in the 'Processed Tweets' folder and each contains all the tweets on that day.
 
 #### Format of each dictionary: <br>
-key =>tweet_id, value => {tweet_id: "", user_id: "", tweet_text: "", hashtags: "", user_mentions: ""}
+key =>tweet_id, value => {created_at: "", tweet_id: "", user_id: "", tweet_text: "", hashtags: "", user_mentions: ""}
 
 #### Example from the dictionary for  Mar 19,2020: <br>
 
