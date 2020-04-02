@@ -77,3 +77,4 @@ Plots these dataframes to graphs that shows the sentiment for a candidate over t
 ![tweets graph](https://shrutibendale.files.wordpress.com/2020/03/tweets_graph-1.png)
 
 
+
