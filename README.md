@@ -8,7 +8,6 @@
 The streams are delivered in compressed Gzip format. 
 
 
-
 ## 1.SeperatingByDates.ipynb 
 Seperates tweets according to dates and creates seperate dictionaries for all dates. These dictionaries are saved as pickle files in the 'Processed Tweets' folder and each contains all the tweets on that day.
 
