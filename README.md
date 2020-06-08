@@ -1,6 +1,6 @@
 # Studying the 2020 DNC Primary elections and discussions of it on Twitter
 * Collected and preprocessed over 2 billion tweets over the course of two months using the Twitter streaming API.
-* Performed sentiment analysis on the tweets and provided insights like the progression of overall sentiment about a candidate over a month, daily trending hashtags and mentions using graphs and visualization tools.
+* Performed sentiment analysis on the tweets and provided insights like the progression of overall sentiment about a candidate over a month, daily trending hashtags and mentions using graphs and visualization tools. 
 
 <p align="center"><img src = "https://shrutibendale.files.wordpress.com/2020/03/2560px-united_states_senate_elections_2020.svg_.png" width = "500"></p>
 
